@@ -68,6 +68,12 @@ video {
     }
 }
 @media screen and (max-width: 768px){
+    .row{
+    padding-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+        justify-content: space-evenly;
+}
     body{
         background-size: 100%;
         background-repeat: repeat;
