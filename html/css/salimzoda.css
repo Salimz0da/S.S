@@ -6,7 +6,7 @@
   body {
     background-image: url(../../img/salimzoda/10.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
   }
   .container {
     max-width: 1200px;
@@ -64,19 +64,19 @@
   @media screen and (max-width: 480px){
       body{
           background-size: 100%;
-          background-repeat: no-repeat;
+          background-repeat: repeat;
       }
   }
   @media screen and (max-width: 768px){
       body{
           background-size: 100%;
-          background-repeat: no-repeat;
+          background-repeat: repeat;
       }
   }
   @media screen and (max-width: 1024px){
       body{
           background-size: 100%;
-          background-repeat: no-repeat;
+          background-repeat: repeat;
       }
   }
   
